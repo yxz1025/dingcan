@@ -1,4 +1,5 @@
-dingcan
-=======
-
-订餐网站
+<?php
+class Hexin_Controller extends Zend_Controller_Action
+{
+  
+}
